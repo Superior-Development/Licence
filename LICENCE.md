@@ -15,9 +15,14 @@ Commercial usage or any form of sale of this plugin is expressly forbidden. You 
 You may distribute any plugins in any way you feel fit (Providing they comply with the [commercial usage](#commercial-usage) regulations). You are however not permitted to remove any sort of credits from within the software. This includes but is not limited to:
 
  - Ryan Wild
- - Jeorm Sar
+ - Jerom Sar
+ - Dan Jones 
+ - Cameron Redmore
  - Wild1145
- - DarthSalamon
+ - DarthSalamon 
+ - WickedGamingUK
+ - Camzie99
+ - Hockeyfan360 
 
 We also require you link users back to our official releases. These can be found at the following template: Github.com/organisation/Project-Name/releases  Failing to link users to the official releases is in strict violation of this license and appropriate action will be taken. 
 
