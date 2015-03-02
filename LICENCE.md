@@ -8,7 +8,7 @@ We do however require that you follow some additional restrictions when you are 
 
 ### Commercial Usage
 
-Commercial usage or any form of sale of this plugin is expressly forbidden. You may not sell the software as a project, nor may you compile the source code (where applicable) / link to the project using any form of adfly links or similar where you will gain profit from users clicking the links. All link backs should be using a service that will not gain you any profits (Like Pravius).
+Commercial usage or any form of sale of this project is expressly forbidden. You may not sell the software as a project, compiled jar (where applicable) / link to the project using any form of adfly links or similar where you will gain profit from users clicking the links. All link backs should be using a service that will not gain you any profits (Like Pravius).
 
 ### Distribution 
 
@@ -24,11 +24,15 @@ You may distribute any plugins in any way you feel fit (Providing they comply wi
  - Camzie99
  - Hockeyfan360 
 
-We also require you link users back to our official releases. These can be found at the following template: Github.com/organisation/Project-Name/releases  Failing to link users to the official releases is in strict violation of this license and appropriate action will be taken. 
+We also require you link users back to our official releases. These can be found at the following template: https://github.com/Superior-Development/Project-Name/releases  Failing to link users to the official releases is in strict violation of this license and appropriate action will be taken. 
 
 ### Other Conditions
 
 Individual projects may be sub-licensed in addition to this license, or as a replacement as such a license. If this is the case you will find a LICENCE.md included within the project source. That license will explain any additional restrictions or if it is a total replacement of this license.
+
+The Current Sub-Licenced / Re-Licenced projects are as follows:
+
+ - TotalFreedomMod - Relicened - Covered under the default TotalFreedomMod Licence 
 
 ### License Waived
 
