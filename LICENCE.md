@@ -12,7 +12,7 @@ Commercial usage or any form of sale of this project is expressly forbidden. You
 
 ### Distribution 
 
-You may distribute any plugins in any way you feel fit (Providing they comply with the [commercial usage](#commercial-usage) regulations). You are however not permitted to remove any sort of credits from within the software. This includes but is not limited to:
+You may distribute any plugins in any way you feel fit (Providing they comply with the [commercial usage](#commercial-usage) regulations). You are however not permitted to remove any sort of credits from within the software and are required to give appropriate credit when using the source code within your own projects. This includes but is not limited to:
 
  - Ryan Wild
  - Jerom Sar
