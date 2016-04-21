@@ -16,11 +16,13 @@ You may distribute any plugins in any way you feel fit (Providing they comply wi
  - Jerom Sar
  - Dan Jones 
  - Cameron Redmore
+ - Matt Kent
  - Wild1145
  - DarthSalamon 
  - WickedGamingUK
  - Camzie99
  - Hockeyfan360 
+ - Kent55
 
 We also require you link users back to our official releases. These can be found at the following template: https://github.com/Superior-Development/Project-Name/releases  Failing to link users to the official releases is in strict violation of this license and appropriate action will be taken. Any sources that you use require to be clearly labeled as ours and that you have used our source code within your project. This includes listing any contributors of the original file, and linking back to the project you found the source, and then a link to the projects releases. 
 
